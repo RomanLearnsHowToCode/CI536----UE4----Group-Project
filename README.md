@@ -1,8 +1,10 @@
 **CI536 Integrated Group Project**  
 Group Assignment
 
+- **Ajay Balakrishnan** - LevelDesigner and Programmer
 - **Alan Joos** – Programmer and Documentation Maintainer
 - **Casey McKinney** – Lead Asset Creator and Researcher
+- **Elliot Reece Walker** - Audio Engineer and Composer
 - **Frida Mjanger Halvorsen** – Asset Creator and Lead Researcher
 - **Jack Cailand Lloyd** – Lead Programmer and Lead Documentation Maintainer
 - **Roman Liewhr** – Project Manager and Researcher
