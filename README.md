@@ -1,13 +1,15 @@
 **CI536 Integrated Group Project**  
 Group Assignment
 
-- **Ajay Balakrishnan** - LevelDesigner and Programmer
-- **Alan Joos** – Programmer and Documentation Maintainer
 - **Casey McKinney** – Lead Asset Creator and Researcher
 - **Elliot Reece Walker** - Audio Engineer and Composer
 - **Frida Mjanger Halvorsen** – Asset Creator and Lead Researcher
-- **Jack Cailand Lloyd** – Lead Programmer and Lead Documentation Maintainer
-- **Roman Liewhr** – Project Manager and Researcher
+- **Jack Cailand Lloyd** – Lead Programmer and Lead Documentation Maintainer (C++)
+- **Roman Liewhr** – Project Manager and Mini game programmer (Blueprints)
+
+!! UPDATE 03/06/2021
+Plase be aware that all the C++ Code was written by Jack Ciland Lloyd, and me (Roman) has been working mainly on Blueprints for minigames.
+
 
 **Project Proposal**: “**Planit Party**” – an *educational* console, and/or desktop (non-mobile), co-operative multiplayer party game exploring the *environmental* consequences of \[competitive\] *human behaviour*.
 
